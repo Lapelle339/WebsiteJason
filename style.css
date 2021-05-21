@@ -1,0 +1,26 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 5em;
+    color: aquamarine;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+#particles-js{
+    background-image: url(images/me.jpg);
+    background-size: cover;
+    height: 980px;
+    
+}
